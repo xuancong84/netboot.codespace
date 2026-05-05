@@ -1,0 +1,4 @@
+nfs/
+*.tar
+*.tar.gz
+*.tar.xz

@@ -1,0 +1,5 @@
+{
+  "name": "Ubuntu 24.04 RootFS Builder",
+  "image": "ubuntu:24.04",
+  "privileged": true
+}
